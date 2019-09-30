@@ -10,5 +10,5 @@ After:
 Installation:
 - visit reshade.me and grab reshade
 - run the reshade installer on the game executable
-- copy shader.fx into the proper directory
+- copy shader.fx and ReShade.fxh into the proper directory
 - turn it on and put on your 3d glasses!
