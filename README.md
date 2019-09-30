@@ -8,7 +8,7 @@ After:
 ![Red/Cyan](redcyan.png)
 
 Installation:
-visit reshade.me and grab reshade
-run the reshade installer on the game executable
-copy shader.fx into the proper directory
-turn it on and put on your 3d glasses!
+- visit reshade.me and grab reshade
+- run the reshade installer on the game executable
+- copy shader.fx into the proper directory
+- turn it on and put on your 3d glasses!
